@@ -7,7 +7,7 @@
 
 ### 推特：https://twitter.com/pearvault
 
-### 电报：https://t.co/3mgrErwsMJ?amp=1
+### 电报：https://t.me/pearvaultfinance
 
 ## 合约地址
 ### Pear Vault CHE-OKT
