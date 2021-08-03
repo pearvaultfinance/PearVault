@@ -3,11 +3,13 @@
 完全 fork Beefy 的代码，唯一的改动是，收取 1% 的手续费作为项目方收益
 
 ## 链接
-### 官网：https://pearvault.finance/
+### 官网：https://pearvault.finance
 
 ### 推特：https://twitter.com/pearvault
 
 ### 电报：https://t.me/pearvaultfinance
+
+### 文档：https://docs.pearvault.finance
 
 ## 合约地址
 ### Pear Vault CHE-OKT
